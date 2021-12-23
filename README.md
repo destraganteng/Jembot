@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/github/forks/ramadhani892/RAM-UBOT?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/ramadhani892/RAM-UBOT">
+  <a href="https://github.com/destraganteng/Jembot">
     <img src="https://img.shields.io/github/stars/ramadhani892/RAM-UBOT?style=social">
   </a>
 </p>  
@@ -15,7 +15,7 @@
 <a href="https://t.me/ramubotspam"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
 
 ## DEPLOY TO HEROKU ⚠️
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ramadhani892/TRUST"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-indigo?style=flat&logo=heroku" width="300" height="38.60" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/destraganteng/Jembot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-indigo?style=flat&logo=heroku" width="300" height="38.60" /></a></p>
 
 
 
